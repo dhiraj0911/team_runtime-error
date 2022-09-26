@@ -1,1 +1,1 @@
-1_initial_migration.js
+const Migrations = artifacts.require("Migrations");
