@@ -125,7 +125,7 @@ function App() {
               dispatch(connect());
             }}
           >
-            CONNECT
+            CONNECT To Blockchain
           </s.Button>
           <s.SpacerSmall />
           {blockchain.errorMsg !== "" ? (
